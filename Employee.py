@@ -28,4 +28,3 @@ class Employee:
             return response.text
         else:
             return 'Bad Response!'
-Footer
